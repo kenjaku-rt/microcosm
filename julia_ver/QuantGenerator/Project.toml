@@ -1,0 +1,4 @@
+name = "QuantGenerator"
+uuid = "7e3c65fe-206b-46db-8712-f928ffe998c7"
+authors = ["Matvey Rybalkin <kokushibou.rt@gmail.com>"]
+version = "0.1.0"
